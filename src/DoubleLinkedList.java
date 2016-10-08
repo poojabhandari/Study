@@ -2,7 +2,6 @@
 public class DoubleLinkedList {
 
 	
-	
 	static Node head;
 	
 	class Node{

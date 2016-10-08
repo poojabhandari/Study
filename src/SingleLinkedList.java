@@ -1,6 +1,7 @@
 
 public class SingleLinkedList {
 
+	
 	static Node head;
 	static class Node{
 		
